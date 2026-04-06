@@ -8,3 +8,4 @@ use CodeIgniter\Router\RouteCollection;
 $routes->get('/', 'Home::index');
 
 $routes->post('/registrasi', 'RegistrasiController::registrasi');
+$routes->post('/login', 'LoginController::login');
