@@ -1,10 +1,28 @@
 ===
-RestfulController
+Controllers: RestfulController
 ===
 C:\laragon\www\be_toko_api>php spark make:controller RestfulController --restful
 
 CodeIgniter v4.7.2 Command Line Tool - Server Time: 2026-04-06 01:21:39 UTC+00:00
 
 File created: APPPATH\Controllers\RestfulController.php
+
+===
+Models: MRegistrasi
+===
+C:\laragon\www\be_toko_api>php spark make:model MRegistrasi  
+
+CodeIgniter v4.7.2 Command Line Tool - Server Time: 2026-04-06 01:25:39 UTC+00:00
+
+File created: APPPATH\Models\MRegistrasi.php
+
+===
+Controllers: RegistrasiController
+===
+C:\laragon\www\be_toko_api>php spark make:controller RegistrasiController
+
+CodeIgniter v4.7.2 Command Line Tool - Server Time: 2026-04-06 01:32:08 UTC+00:00
+
+File created: APPPATH\Controllers\RegistrasiController.php
 
 ===
